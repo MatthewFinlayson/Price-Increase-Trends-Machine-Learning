@@ -1,484 +1,426 @@
-year,name,price
-2012,NIKE LUNARGLIDE+ 4 ,145
-2012,NIKE FREE RUN 3 HYBRID ,130
-2012,JORDAN SPIZIKE ,210
-2012,"NIKE HYPERDUNK+ iD SPORT PACK
-",290
-2012,"NIKE LUNARGLIDE+ 4
-",110
-2012,"NIKE LUNARGLIDE+ 4 PREMIUM
-",120
-2012,"NIKE FREE RUN+ 3
-",100
-2012,"NIKE AIR MAX+ 2012
-",170
-2012,"NIKE HYPERDUNK+ SPORT PACK
-",250
-2012,"NIKE HYPERDUNK
-",140
-2012,"LEBRON 9 PS ELITE
-",250
-2012,"NIKE ZOOM KOBE VII SYSTEM ELITE
-",200
-2012,"NIKE ROSHE RUN
-",70
-2012,"NIKE AIR FORCE 1 07
-",90
-2012,"NIKE AIR MAX 90
-",100
-2012,"NIKE DUNK HIGH
-",85
-2012,"NIKE LUNARTR1+ SPORT PACK
-",235
-2012,"NIKE LUNARTR1
-",120
-2012,"NIKE FREE TR3 5.0
-",90
-2012,"NIKE FREE HAVEN 3.0
-",100
-2012,"NIKE VAPOR TALON ELITE LOW TD
-",140
-2012,"NIKE ALPHA SPEED
-",90
-2012,"NIKE VAPOR PRO THREE-QUARTER TD
-",95
-2012,"NIKE VAPOR TALON ELITE THREE-QUARTER TD
-",150
-2012,"NIKE MERCURIAL VAPOR VIII
-",220
-2012,"NIKE CTR360 MAESTRI II
-",190
-2012,"NIKE TIEMPO LEGEND IV
-",160
-2012,"NIKE T90 LASER IV KL
-",220
-2012,"NIKE MAVRK MID 3
-",85
-2012,"NIKE ZOOM PAUL RODRIGUEZ 2.5
-",78
-2012,"NIKE 6.0 BRAATA LR PREMIUM MID
-",85
-2012,"NIKE 6.0 MAVRK CANVAS
-",65
-2013,Nike Air Max+ 2013,180
-2013,Nike Air Max+ 2013 iD,220
-2013,LeBron X,180
-2013,LeBron X iD,230
-2013,Nike Flyknit Lunar1+,160
-2013,Nike Flyknit Lunar1+ iD,200
-2013,Nike Flyknit Lunar1+ iD,200
-2013,Nike Free 5.0+,100
-2013,Nike Free 5.0+ iD,135
-2013,Nike Air Max+ 2013,180
-2013,Nike Air Max+ 2013 iD,220
-2013,Nike Free 5.0+,100
-2013,Nike Free 5.0+ iD,135
-2013,Nike Dri-FIT Flat-Front Tech,80
-2013,Nike Free Trainer 5.0,95
-2013,Nike Free Trainer 5.0 iD,135
-2013,Nike CTR360 Maestri III FG,200
-2013,Nike Tiempo Legend IV FG,160
-2013,Nike Tiempo Legend IV iD,190
-2013,Nike Air Force 1 07,90
-2013,Nike Air Force 1 Low Premium iD,190
-2013,Nike Zoom Vapor 9 Tour,130
-2013,Nike Zoom Vapor 9 Tour iD Grass,165
-2013,Nike Zoom Vapor 9 Tour iD Hard Court,165
-2013,Nike Zoom Vapor 9 Tour iD Clay,165
-2013,Nike Studio Wrap Pack,110
-2013,Nike Air Max Courtballistec 4.3,130
-2013,Nike Air Max LeBron X Low,165
-2013,Nike Zoom Courtlite 3,80
-2013,Nike Free Trainer 7.0,110
-2013,Nike Free 3.0,110
-2013,Nike Free 3.0 iD,135
-2013,Nike Free 3.0 iD,135
-2013,Jordan Spizike iD,210
-2013,Nike Flyknit Lunar1+,160
-2013,Nike Flyknit Lunar1+ iD,200
-2013,Nike Flyknit Lunar1+ iD,200
-2013,Nike LunarGlide+ 4,110
-2013,Nike Mercurial Vapor IX FG,225
-2013,Nike Mercurial Vapor IX FG iD,265
-2013,Nike City Court VII,60
-2013,Nike Air Max+ 2013 Premium,190
-2013,Nike Free Trainer 3.0,110
-2013,Nike Lunar Hyperdunk 2012,140
-2013,Nike Hyperdunk iD,180
-2013,Nike LunarEclipse+ 3,135
-2013,LeBron X PS Elite,260
-2013,LeBron X PS Elite,260
-2013,LeBron X PS Elite,260
-2013,LeBron X P.S. Elite iD,310
-2013,Nike Dunk Sky Hi Print,120
-2013,KD V Elite,180
-2013,Nike LunarGlide+ 4,110
-2014,Kobe 8 System GUMBO iD,195
-2014,Nike Free 5.0+ iD,135
-2014,Nike Free TR 4 iD,140
-2014,KD VI GUMBO iD,195
-2014,LeBron 11 GUMBO iD,265
-2014,Nike Flyknit Lunar2,150
-2014,Nike Flyknit Air Max,225
-2014,LeBron 11,200
-2014,Nike Zoom Kobe Venomenon 4,120
-2014,Kobe 8 System,160
-2014,Nike Flyknit Air Max,225
-2014,Nike Free TR 4 iD,140
-2014,Nike Studio Wrap Pack,110
-2014,Nike Dunk Sky Hi Print,125
-2014,Nike Air Max Lunar90,130
-2014,Nike Air Max 2014,145
-2014,LeBron 11,140
-2014,Nike Free 5.0 LE (3.5y-7y),87
-2014,Nike Air Pegasus+ 30,75
-2014,Nike Lunar Sprint LE,100
-2014,Nike Free 5.0,82
-2014,Nike Tailwind 6,100
-2014,Nike Air Max 2014,145
-2014,Nike Air Pegasus+ 30,75
-2014,Nike Roshe Run,60
-2015,Nike Free 3.0 Flyknit,140
-2015,Nike Free 4.0 Flyknit,120
-2015,Nike Free 4.0 Flyknit iD,160
-2015,Nike Free 4.0 iD,140
-2015,Nike Free 5.0,100
-2015,Nike Free 5.0 iD,140
-2015,Nike Free Trainer 5.0 V6,100
-2015,Nike Free Trainer 5.0 V6 iD,140
-2015,Kobe X,180
-2015,Kobe X iD,225
-2015,Kyrie 1,110
-2015,Kyrie 1 iD,155
-2015,KD7,150
-2015,KD7 iD,195
-2015,LeBron 12,200
-2015,LeBron 12 iD,245
-2015,Nike Flyknit Lunar 3,150
-2015,Nike Flyknit Lunar 3 iD,190
-2015,Nike SB Stefan Janoski Max L,110
-2015,Nike SB Stefan Janoski Max iD,150
-2015,Nike Air Max 90 Essential,110
-2015,Nike Air Max 1 Essential,110
-2015,Nike Air Max Lunar90,140
-2015,Nike Air Max 90 iD,150
-2015,Nike Air Max 1 Ultra Moire,130
-2015,Nike Air Max 1 Ultra Moire iD,170
-2015,Nike Air Max 95,160
-2015,Nike Air Max 93,125
-2015,Nike Metcon 1,120
-2015,Nike Zoom Speed Trainer 2,90
-2015,Nike Free Trainer 3.0 V3,110
-2015,Nike Lunar Trainer 1,110
-2015,Jordan Dub Zero,160
-2015,Jordan Flight Runner 2,120
-2015,Jordan Super.Fly 3,140
-2015,Jordan FLIGHTFLEX,100
-2015,Nike Roshe One,75
-2015,Nike Air Huarache Run iD,140
-2015,Nike Air Max 1 Leather PA,140
-2015,Nike Air Force 1 07 LV8,100
-2015,Nike Mercurial Superfly FG CR7,300
-2015,Nike Mercurial Superfly CR AG-R,305
-2015,Nike Magista Obra FG,275
-2015,Nike LunarTempo,110
-2015,Nike Air Zoom Elite 7,110
-2015,Nike LunarGlide 6 iD,145
-2015,Nike LunarGlide 6,110
-2015,Nike TW '15,200
-2015,Nike Lunar Control 3,170
-2015,Nike Lunar Control 3 iD,210
-2015,Nike Lunar Clayton,250
-2015,Jordan Illusion,105
-2015,Jordan Melo 11,160
-2015,Nike Zoom Cage 2,120
-2015,Nike Zoom Vapor 9 Tour iD,165
-2015,Nike Air Zoom Structure 18,120
-2015,Nike Air Zoom Structure 18 iD,155
-2015,Nike Air Zoom Pegasus 31,100
-2015,Nike Air Zoom Pegasus 31 iD,135
-2015,Nike Flyknit Trainer Chukka SFB,200
-2016,Nike LunarEpic Low Flyknit ULTD,160
-2016,Nike Free RN Flyknit ULTD,130
-2016,Nike Zoom KD 9,150
-2016,Nike Hyperdunk 2016 Flyknit,200
-2016,Nike Free RN ULTD,100
-2016,Nike Air Zoom Pegasus 33 ULTD,110
-2016,Nike Metcon 2,130
-2016,Nike Free Train Force Flyknit,150
-2016,Nike Air Max 1 Premium iD,175
-2016,Nike Air Force 1 Low Premium iD,165
-2016,Nike Air Max 90 Premium iD,175
-2016,Nike Air Force 1 Mid Premium iD,170
-2016,Nike LunarEpic Flyknit ULTD,175
-2016,Nike Free RN Motion Flyknit ULTD,150
-2016,Nike LunarGlide 8 ULTD,120
-2016,Nike Train Ultrafast Flyknit,150
-2016,Nike Zoom KD 9 iD,195
-2016,Nike Hyperdunk 2016 iD,180
-2016,Nike LunarEpic Low Flyknit iD,200
-2016,Nike Roshe Flyknit iD,160
-2016,Nike Lunar Caldra,120
-2016,Nike Train Quick,140
-2016,Nike Air Zoom All Out Flyknit ULTD,200
-2016,Nike Magista Obra II SG-PRO,310
-2016,Nike Roshe One iD,115
-2016,Nike Air Presto iD,160
-2016,Nike Free RN iD,140
-2016,Nike Flyknit Air Max iD,265
-2016,Nike Air Max 1 Ultra Flyknit,160
-2016,Nike Hyperdunk 08,150
-2016,Nike Flyknit Elite,270
-2016,NikeCourt Air Zoom Ultrafly,220
-2016,NikeCourt Zoom Vapor 9.5 Tour,140
-2016,Nike Roshe Flyknit,120
-2016,Nike Air Presto Ultra Flyknit,160
-2016,Nike Air Force 1 Low Ultra Flyknit,170
-2016,Nike Air Zoom Pegasus 92,120
-2016,Kyrie 2,120
-2016,Kobe XI Elite,200
-2016,LeBron XIII Low,150
-2016,Nike LunarEpic Low Flyknit,160
-2016,Nike LunarEpic Flyknit,175
-2016,Nike LunarGlide 8,120
-2016,Nike Air Zoom Pegasus 33,110
-2016,Kobe XI Elite iD,245
-2016,Nike Zoom LeBron Soldier 10 SFG,140
-2016,Air Jordan 1 KO High OG,140
-2016,Air Jordan I Retro High,140
-2016,AJ Trainer 1,140
-2016,Jordan Super.Fly 5,140
-2016,Kobe XI Elite iD,245
-2016,Nike Air Presto iD,160
-2016,Nike Air Max 90 iD,150
-2016,Nike Air Max 90 HYP Premium iD,165
-2016,Nike Metcon 2 AMP-X,140
-2016,Nike Metcon 2 Amplify,140
-2016,Nike Hyperdunk 2016,140
-2016,Converse Auckland Modern,110
-2016,Converse Auckland Modern,110
-2016,Converse Chuck Taylor All Star II High Top,80
-2017,Nike Air Foamposite Pro,230
-2017,Air Jordan Retro 8,190
-2017,Nike Lunar Force 1 Duckboot '17,170
-2017,Nike Lunar Force 1 Duckboot Low,140
-2017,Nike Metcon 3,130
-2017,Nike Metcon DSX Flyknit,160
-2017,Kyrie 3,120
-2017,Kobe A.D.,160
-2017,Nike Free RN Flyknit 2017,120
-2017,Nike Air Zoom Pegasus 34,110
-2017,Nike SF Air Force 1 Mid,160
-2017,Nike Air Force 1 '07 QS,130
-2017,Nike Air Force 1 '07,90
-2017,Nike Air Zoom Mariah Flyknit Racer,150
-2017,Nike Air Max 2017,190
-2017,Nike LunarEpic Low Flyknit 2,134.97
-2017,Kobe A.D. iD,180
-2017,Kyrie 3 iD,140
-2017,LeBron Soldier XI iD,150
-2017,Nike Air Huarache,110
-2017,Nike Roshe One,75
-2017,Air Jordan 5 Retro,190
-2017,Jordan Super.Fly 2017,140
-2017,Nike React Hyperdunk 2017 Flyknit,160
-2017,Nike React Hyperdunk 2017 Low,114.97
-2017,Nike Zoom KDX,134.97
-2017,PG1,110
-2017,LeBron Soldier XI,140
-2017,Nike Air Presto Essential,120
-2017,Nike Air Force 1 High '07,100
-2017,Air Jordan 1 Retro High OG,160
-2017,Nike Free RN Commuter 2017,110
-2017,Nike SB Stefan Janoski Max,110
-2017,Converse Chuck Taylor All Star High Top,55
-2017,Converse Chuck Taylor All Star Low Top,50
-2017,Converse One Star Classic Suede Low Top,85
-2017,Converse Custom One Star Suede,100
-2017,Converse Custom One Star Suede,100
-2017,Converse Custom One Star Suede,100
-2017,Nike Alpha Menace Elite,200
-2017,Nike Vapor Untouchable Pro,95.97
-2017,Nike Mercurial Superfly V FG,300
-2017,Nike Tiempo Legend VII FG,230
-2017,Hurley Phantom Free Elite,80
-2017,Hurley Phantom Free Motion,70
-2017,Nike Dualtone Racer,74.97
-2017,Nike Duel Racer,99.97
-2017,Nike SB Zoom Stefan Janoski Canvas,85
-2017,Nike SB Dunk Low Pro,90
-2017,Nike SB Air Max Bruin Vapor,89.97
-2017,Nike Free Trainer V7,74.97
-2017,Nike Free Train Virtue,120
-2017,Nike Benassi Solarsoft 2,35
-2017,Nike Roshe One Essential iD,95
-2017,Converse Chuck Taylor All Star Low Top,50
-2017,Converse Chuck Taylor Monochrome High Top,55
-2017,Air Jordan Retro 8,190
-2017,Converse Chuck Taylor All Star Seasonal Low Top,50
-2017,Converse Chuck Taylor All Star Seasonal High Top,55
-2017,Converse Chuck Taylor Monochrome Low Top,50
-2018,LeBron 16,185
-2018,Nike Air Max 270 Bowfin,160
-2018,Nike Air Max 270,150
-2018,Nike Air Max 270 iD,170
-2018,Nike Zoom Fly Flyknit,160
-2018,Nike Zoom Pegasus Turbo,180
-2018,Nike Epic React Flyknit,150
-2018,Nike Epic React Flyknit iD,170
-2018,Nike Air VaporMax Flyknit 2,190
-2018,Nike Air VaporMax Flyknit 2 iD,240
-2018,Nike Air Force 1 '07,90
-2018,Nike Air Force 1 High 07,100
-2018,Nike Air Max 97,160
-2018,Nike Rise React Flyknit LMTD,175
-2018,Air Jordan 5 Retro,190
-2018,Air Jordan 18 Retro,225
-2018,Air Jordan 12 Retro Premium,200
-2018,Air Jordan 1 Retro High Double Strap,140
-2018,Air Jordan 1 High Zip,150
-2018,Air Jordan 1 Mid,110
-2018,Nike Air Zoom Pegasus 35,120
-2018,Nike Free x Metcon,120
-2018,Nike Zoom KD11,150
-2018,Nike Zoom KD11 iD,170
-2018,Nike Air Max 95,180
-2018,Nike Air VaporMax 95,190
-2018,Nike Air Max 90 Essential,110
-2018,Nike Air Force 1 '07 LV8 Utility,100
-2018,Air Jordan 1 Retro High OG,160
-2018,Air Jordan 1 Retro High Premium,145
-2018,Nike Air VaporMax Premier Flyknit,225
-2018,Nike Air VaporMax Flyknit Moc 2,200
-2018,Nike Metcon 4,130
-2018,Nike Metcon DSX Flyknit 2,150
-2018,Nike Air Max Deluxe,180
-2018,Nike Air Max Deluxe,200
-2018,Nike Air Max 97 Ultra '17,160
-2018,Nike Air Force 1 Low Retro QS,130
-2018,Nike Air Force 1 '07 Suede,90
-2018,Nike EXP-X14,83.97
-2018,Nike EXP-X14 QS,140
-2018,Nike Classic Cortez Nylon,70
-2018,Nike Zoom Fly SP,119.97
-2018,Nike Air VaporMax Plus,190
-2018,Nike Air VaporMax 97,190
-2018,Nike Air Max 270 Flyknit,170
-2018,Nike Air Max 270 Premium,170
-2018,Nike Free TR8 (Ohio State),110
-2018,Nike Air Max Typha 2 (NFL Philadelphia),110
-2018,Nike Air Force 1 '07 LV8 JDI LNTC,100
-2018,Nike Air Max 1 Premium,120
-2018,Air Jordan 10 Retro,190
-2018,Nike Free RN Flyknit 2018,120
-2018,Nike Free RN 2018,100
-2018,Nike SB Nyjah,95
-2018,Nike Air Huarache,110
-2018,Nike Lunar Force 1 Duckboot Low Textile,140
-2018,Nike SF Air Force 1,180
-2018,Nike Vapor Untouchable 3 Pro,120
-2018,Nike Vapor Untouchable Pro 3 iD,140
-2019,Nike Air Max 720,180
-2019,Nike Air Max 270,150
-2019,Nike Air VaporMax 2019,190
-2019,Nike Air VaporMax Utility,190
-2019,Nike Air Max 720,180
-2019,Jordan Proto-Max 720,200
-2019,Nike Air VaporMax Flyknit 3,190
-2019,Nike Air VaporMax 2019,190
-2019,Kyrie 5,130
-2019,PG 3,110
-2019,LeBron 16 Low,160
-2019,Air Jordan 13 Retro,190
-2019,Air Jordan 1 Mid SE,120
-2019,Jordan Proto-React,150
-2019,Nike Epic React Flyknit 2,150
-2019,Nike React Element 55,130
-2019,Nike ISPA React WR,160
-2019,Nike Air VaporMax Plus,190
-2019,Nike Air Max 95 Premium,170
-2019,Nike Air Max 97 ND,170
-2019,Nike Air Max 270,150
-2019,Nike Vaporfly 4% Flyknit,250
-2019,Nike Zoom Pegasus Turbo,134.97
-2019,Air Jordan 9 Retro,190
-2019,Air Jordan 4 Retro,190
-2019,Nike Air Max 1,110
-2019,Nike Air Max 1 Premium By You,150
-2019,Nike Air Max 97,135.97
-2019,Nike Air Max 97 By You,190
-2019,Nike Air Zoom Pegasus 35,120
-2019,Nike Metcon 4 XD,130
-2019,Nike Zoom Fly Flyknit,160
-2019,Nike Odyssey React Flyknit 2,89.97
-2019,Nike Air Force 1 '07,90
-2019,Nike Air Force 1 Utility,145
-2019,Nike Air Force 1 '07 Premium 3,130
-2019,Nike Air Force 1 '07 LV8 1,100
-2019,Nike Air Max 90 Essential,81.97
-2019,Nike Air Max 90 By You,130
-2019,Nike Air Max 95 OG,160
-2019,Nike Air Max 95 By You,180
-2019,Nike Air Max 95 ND,170
-2019,Nike Air Max Deluxe,180
-2019,Nike Air VaporMax Flyknit 2 Random,200
-2019,Nike Air VaporMax Flyknit 2,190
-2019,Nike Air Max 98,170
-2019,Nike Air Max 98,160
-2019,Nike Air Max2 Light,140
-2019,Nike Air Tailwind 79,90
-2019,Nike Metcon Flyknit 3,150
-2019,Nike Free TR 8,100
-2019,Nike Air Max 720 SATRN,200
-2019,Nike SB Zoom Janoski Mid Crafted,100
-2019,Air Jordan XXXIII,175
-2019,LeBron 16,185
-2019,Kyrie 5 x ROKIT All Star,140
-2019,"Jordan ""Why Not?"" Zer0.2 SP",125
-2019,Nike SB Air Max Janoski 2,110
-2019,Nike SB Air Max Janoski 2 Premium,120
-2019,Nike SB Zoom Stefan Janoski Canvas Premium,90
-2020,Nike Air Max 2090,150
-2020,Nike Air Max 2090,170
-2020,Air Jordan 4 Retro SE,225
-2020,Air Jordan 3 Retro SE,200
-2020,Air Jordan 1 Low,90
-2020,Air Jordan 1 Mid,115
-2020,Nike Air VaporMax Plus (Chicago),200
-2020,Nike Air Max 90,120
-2020,LeBron 17 Low,160
-2020,LeBron 17,200
-2020,Nike SuperRep Go,100
-2020,Nike Air Zoom SuperRep,120
-2020,Nike React Infinity Run Flyknit,160
-2020,Nike Zoom Pegasus Turbo 2,180
-2020,Nike Air Force 1 '07,90
-2020,Nike Air Force 1 Type-2,140
-2020,Nike Air Force 1 '07,90
-2020,Kyrie 6,130
-2020,PG 4,110
-2020,Zoom Freak 1,120
-2021,Nike Air VaporMax Evo,260
-2021,Nike Air Max 95 EOI,235
-2021,LeBron 18 'White/Black/Gold',260
-2021,Kyrie 7 'Brooklyn Beats',170
-2021,Nike Air Max 2090,180
-2021,Nike Space Hippie 04,170
-2021,Nike Air Max 97 EOI,235
-2021,Nike React Vision,185
-2021,Nike Air Max Plus EOI,225
-2021,Nike Air Max SC,100
-2021,Nike Air Max Bolt,115
-2021,Nike Air Max Tailwind V SP,225
-2021,Nike Air Force 1 '07,135
-2021,Nike Air Max Plus,225
-2021,Jordan MA2,170
-2021,Air Jordan XXXV,235
-2021,Nike ZoomX Vaporfly NEXT%,330
-2021,Nike Air Zoom Pegasus 37 Premium,155
-2021,NikeCourt React Vapor NXT,210
-2021,Nike Air Zoom Terra Kiger 7,180
-2021,Nike Mercurial Dream Speed Superfly 8 Elite FG,385
-2021,Nike Mercurial Dream Speed Superfly 8 Academy MG,125
-2021,PG 5,145
-2021,Nike Air Force 1,170
+year,name,price,brand
+2012,NIKE LUNARGLIDE+ 4 ,145,nike
+2012,NIKE FREE RUN 3 HYBRID ,130,nike
+2012,JORDAN SPIZIKE ,210,nike
+2013,Nike Air Max+ 2013,180,nike
+2013,Nike Air Max+ 2013 iD,220,nike
+2013,LeBron X,180,nike
+2013,LeBron X iD,230,nike
+2013,Nike Flyknit Lunar1+,160,nike
+2013,Nike Flyknit Lunar1+ iD,200,nike
+2013,Nike Flyknit Lunar1+ iD,200,nike
+2013,Nike Free 5.0+,100,nike
+2013,Nike Free 5.0+ iD,135,nike
+2013,Nike Air Max+ 2013,180,nike
+2013,Nike Air Max+ 2013 iD,220,nike
+2013,Nike Free 5.0+,100,nike
+2013,Nike Free 5.0+ iD,135,nike
+2013,Nike Dri-FIT Flat-Front Tech,80,nike
+2013,Nike Free Trainer 5.0,95,nike
+2013,Nike Free Trainer 5.0 iD,135,nike
+2013,Nike CTR360 Maestri III FG,200,nike
+2013,Nike Tiempo Legend IV FG,160,nike
+2013,Nike Tiempo Legend IV iD,190,nike
+2013,Nike Air Force 1 07,90,nike
+2013,Nike Air Force 1 Low Premium iD,190,nike
+2013,Nike Zoom Vapor 9 Tour,130,nike
+2013,Nike Zoom Vapor 9 Tour iD Grass,165,nike
+2013,Nike Zoom Vapor 9 Tour iD Hard Court,165,nike
+2013,Nike Zoom Vapor 9 Tour iD Clay,165,nike
+2013,Nike Studio Wrap Pack,110,nike
+2013,Nike Air Max Courtballistec 4.3,130,nike
+2013,Nike Air Max LeBron X Low,165,nike
+2013,Nike Zoom Courtlite 3,80,nike
+2013,Nike Free Trainer 7.0,110,nike
+2013,Nike Free 3.0,110,nike
+2013,Nike Free 3.0 iD,135,nike
+2013,Nike Free 3.0 iD,135,nike
+2013,Jordan Spizike iD,210,nike
+2013,Nike Flyknit Lunar1+,160,nike
+2013,Nike Flyknit Lunar1+ iD,200,nike
+2013,Nike Flyknit Lunar1+ iD,200,nike
+2013,Nike LunarGlide+ 4,110,nike
+2013,Nike Mercurial Vapor IX FG,225,nike
+2013,Nike Mercurial Vapor IX FG iD,265,nike
+2013,Nike City Court VII,60,nike
+2013,Nike Air Max+ 2013 Premium,190,nike
+2013,Nike Free Trainer 3.0,110,nike
+2013,Nike Lunar Hyperdunk 2012,140,nike
+2013,Nike Hyperdunk iD,180,nike
+2013,Nike LunarEclipse+ 3,135,nike
+2013,LeBron X PS Elite,260,nike
+2013,LeBron X PS Elite,260,nike
+2013,LeBron X PS Elite,260,nike
+2013,LeBron X P.S. Elite iD,310,nike
+2013,Nike Dunk Sky Hi Print,120,nike
+2013,KD V Elite,180,nike
+2013,Nike LunarGlide+ 4,110,nike
+2014,Kobe 8 System GUMBO iD,195,nike
+2014,Nike Free 5.0+ iD,135,nike
+2014,Nike Free TR 4 iD,140,nike
+2014,KD VI GUMBO iD,195,nike
+2014,LeBron 11 GUMBO iD,265,nike
+2014,Nike Flyknit Lunar2,150,nike
+2014,Nike Flyknit Air Max,225,nike
+2014,LeBron 11,200,nike
+2014,Nike Zoom Kobe Venomenon 4,120,nike
+2014,Kobe 8 System,160,nike
+2014,Nike Flyknit Air Max,225,nike
+2014,Nike Free TR 4 iD,140,nike
+2014,Nike Studio Wrap Pack,110,nike
+2014,Nike Dunk Sky Hi Print,125,nike
+2014,Nike Air Max Lunar90,130,nike
+2014,Nike Air Max 2014,145,nike
+2014,LeBron 11,140,nike
+2014,Nike Free 5.0 LE (3.5y-7y),87,nike
+2014,Nike Air Pegasus+ 30,75,nike
+2014,Nike Lunar Sprint LE,100,nike
+2014,Nike Free 5.0,82,nike
+2014,Nike Tailwind 6,100,nike
+2014,Nike Air Max 2014,145,nike
+2014,Nike Air Pegasus+ 30,75,nike
+2014,Nike Roshe Run,60,nike
+2015,Nike Free 3.0 Flyknit,140,nike
+2015,Nike Free 4.0 Flyknit,120,nike
+2015,Nike Free 4.0 Flyknit iD,160,nike
+2015,Nike Free 4.0 iD,140,nike
+2015,Nike Free 5.0,100,nike
+2015,Nike Free 5.0 iD,140,nike
+2015,Nike Free Trainer 5.0 V6,100,nike
+2015,Nike Free Trainer 5.0 V6 iD,140,nike
+2015,Kobe X,180,nike
+2015,Kobe X iD,225,nike
+2015,Kyrie 1,110,nike
+2015,Kyrie 1 iD,155,nike
+2015,KD7,150,nike
+2015,KD7 iD,195,nike
+2015,LeBron 12,200,nike
+2015,LeBron 12 iD,245,nike
+2015,Nike Flyknit Lunar 3,150,nike
+2015,Nike Flyknit Lunar 3 iD,190,nike
+2015,Nike SB Stefan Janoski Max L,110,nike
+2015,Nike SB Stefan Janoski Max iD,150,nike
+2015,Nike Air Max 90 Essential,110,nike
+2015,Nike Air Max 1 Essential,110,nike
+2015,Nike Air Max Lunar90,140,nike
+2015,Nike Air Max 90 iD,150,nike
+2015,Nike Air Max 1 Ultra Moire,130,nike
+2015,Nike Air Max 1 Ultra Moire iD,170,nike
+2015,Nike Air Max 95,160,nike
+2015,Nike Air Max 93,125,nike
+2015,Nike Metcon 1,120,nike
+2015,Nike Zoom Speed Trainer 2,90,nike
+2015,Nike Free Trainer 3.0 V3,110,nike
+2015,Nike Lunar Trainer 1,110,nike
+2015,Jordan Dub Zero,160,nike
+2015,Jordan Flight Runner 2,120,nike
+2015,Jordan Super.Fly 3,140,nike
+2015,Jordan FLIGHTFLEX,100,nike
+2015,Nike Roshe One,75,nike
+2015,Nike Air Huarache Run iD,140,nike
+2015,Nike Air Max 1 Leather PA,140,nike
+2015,Nike Air Force 1 07 LV8,100,nike
+2015,Nike Mercurial Superfly FG CR7,300,nike
+2015,Nike Mercurial Superfly CR AG-R,305,nike
+2015,Nike Magista Obra FG,275,nike
+2015,Nike LunarTempo,110,nike
+2015,Nike Air Zoom Elite 7,110,nike
+2015,Nike LunarGlide 6 iD,145,nike
+2015,Nike LunarGlide 6,110,nike
+2015,Nike TW '15,200,nike
+2015,Nike Lunar Control 3,170,nike
+2015,Nike Lunar Control 3 iD,210,nike
+2015,Nike Lunar Clayton,250,nike
+2015,Jordan Illusion,105,nike
+2015,Jordan Melo 11,160,nike
+2015,Nike Zoom Cage 2,120,nike
+2015,Nike Zoom Vapor 9 Tour iD,165,nike
+2015,Nike Air Zoom Structure 18,120,nike
+2015,Nike Air Zoom Structure 18 iD,155,nike
+2015,Nike Air Zoom Pegasus 31,100,nike
+2015,Nike Air Zoom Pegasus 31 iD,135,nike
+2015,Nike Flyknit Trainer Chukka SFB,200,nike
+2016,Nike LunarEpic Low Flyknit ULTD,160,nike
+2016,Nike Free RN Flyknit ULTD,130,nike
+2016,Nike Zoom KD 9,150,nike
+2016,Nike Hyperdunk 2016 Flyknit,200,nike
+2016,Nike Free RN ULTD,100,nike
+2016,Nike Air Zoom Pegasus 33 ULTD,110,nike
+2016,Nike Metcon 2,130,nike
+2016,Nike Free Train Force Flyknit,150,nike
+2016,Nike Air Max 1 Premium iD,175,nike
+2016,Nike Air Force 1 Low Premium iD,165,nike
+2016,Nike Air Max 90 Premium iD,175,nike
+2016,Nike Air Force 1 Mid Premium iD,170,nike
+2016,Nike LunarEpic Flyknit ULTD,175,nike
+2016,Nike Free RN Motion Flyknit ULTD,150,nike
+2016,Nike LunarGlide 8 ULTD,120,nike
+2016,Nike Train Ultrafast Flyknit,150,nike
+2016,Nike Zoom KD 9 iD,195,nike
+2016,Nike Hyperdunk 2016 iD,180,nike
+2016,Nike LunarEpic Low Flyknit iD,200,nike
+2016,Nike Roshe Flyknit iD,160,nike
+2016,Nike Lunar Caldra,120,nike
+2016,Nike Train Quick,140,nike
+2016,Nike Air Zoom All Out Flyknit ULTD,200,nike
+2016,Nike Magista Obra II SG-PRO,310,nike
+2016,Nike Roshe One iD,115,nike
+2016,Nike Air Presto iD,160,nike
+2016,Nike Free RN iD,140,nike
+2016,Nike Flyknit Air Max iD,265,nike
+2016,Nike Air Max 1 Ultra Flyknit,160,nike
+2016,Nike Hyperdunk 08,150,nike
+2016,Nike Flyknit Elite,270,nike
+2016,NikeCourt Air Zoom Ultrafly,220,nike
+2016,NikeCourt Zoom Vapor 9.5 Tour,140,nike
+2016,Nike Roshe Flyknit,120,nike
+2016,Nike Air Presto Ultra Flyknit,160,nike
+2016,Nike Air Force 1 Low Ultra Flyknit,170,nike
+2016,Nike Air Zoom Pegasus 92,120,nike
+2016,Kyrie 2,120,nike
+2016,Kobe XI Elite,200,nike
+2016,LeBron XIII Low,150,nike
+2016,Nike LunarEpic Low Flyknit,160,nike
+2016,Nike LunarEpic Flyknit,175,nike
+2016,Nike LunarGlide 8,120,nike
+2016,Nike Air Zoom Pegasus 33,110,nike
+2016,Kobe XI Elite iD,245,nike
+2016,Nike Zoom LeBron Soldier 10 SFG,140,nike
+2016,Air Jordan 1 KO High OG,140,nike
+2016,Air Jordan I Retro High,140,nike
+2016,AJ Trainer 1,140,nike
+2016,Jordan Super.Fly 5,140,nike
+2016,Kobe XI Elite iD,245,nike
+2016,Nike Air Presto iD,160,nike
+2016,Nike Air Max 90 iD,150,nike
+2016,Nike Air Max 90 HYP Premium iD,165,nike
+2016,Nike Metcon 2 AMP-X,140,nike
+2016,Nike Metcon 2 Amplify,140,nike
+2016,Nike Hyperdunk 2016,140,nike
+2016,Converse Auckland Modern,110,nike
+2016,Converse Auckland Modern,110,nike
+2016,Converse Chuck Taylor All Star II High Top,80,nike
+2017,Nike Air Foamposite Pro,230,nike
+2017,Air Jordan Retro 8,190,nike
+2017,Nike Lunar Force 1 Duckboot '17,170,nike
+2017,Nike Lunar Force 1 Duckboot Low,140,nike
+2017,Nike Metcon 3,130,nike
+2017,Nike Metcon DSX Flyknit,160,nike
+2017,Kyrie 3,120,nike
+2017,Kobe A.D.,160,nike
+2017,Nike Free RN Flyknit 2017,120,nike
+2017,Nike Air Zoom Pegasus 34,110,nike
+2017,Nike SF Air Force 1 Mid,160,nike
+2017,Nike Air Force 1 '07 QS,130,nike
+2017,Nike Air Force 1 '07,90,nike
+2017,Nike Air Zoom Mariah Flyknit Racer,150,nike
+2017,Nike Air Max 2017,190,nike
+2017,Nike LunarEpic Low Flyknit 2,134.97,nike
+2017,Kobe A.D. iD,180,nike
+2017,Kyrie 3 iD,140,nike
+2017,LeBron Soldier XI iD,150,nike
+2017,Nike Air Huarache,110,nike
+2017,Nike Roshe One,75,nike
+2017,Air Jordan 5 Retro,190,nike
+2017,Jordan Super.Fly 2017,140,nike
+2017,Nike React Hyperdunk 2017 Flyknit,160,nike
+2017,Nike React Hyperdunk 2017 Low,114.97,nike
+2017,Nike Zoom KDX,134.97,nike
+2017,PG1,110,nike
+2017,LeBron Soldier XI,140,nike
+2017,Nike Air Presto Essential,120,nike
+2017,Nike Air Force 1 High '07,100,nike
+2017,Air Jordan 1 Retro High OG,160,nike
+2017,Nike Free RN Commuter 2017,110,nike
+2017,Nike SB Stefan Janoski Max,110,nike
+2017,Converse Chuck Taylor All Star High Top,55,nike
+2017,Converse Chuck Taylor All Star Low Top,50,nike
+2017,Converse One Star Classic Suede Low Top,85,nike
+2017,Converse Custom One Star Suede,100,nike
+2017,Converse Custom One Star Suede,100,nike
+2017,Converse Custom One Star Suede,100,nike
+2017,Nike Alpha Menace Elite,200,nike
+2017,Nike Vapor Untouchable Pro,95.97,nike
+2017,Nike Mercurial Superfly V FG,300,nike
+2017,Nike Tiempo Legend VII FG,230,nike
+2017,Hurley Phantom Free Elite,80,nike
+2017,Hurley Phantom Free Motion,70,nike
+2017,Nike Dualtone Racer,74.97,nike
+2017,Nike Duel Racer,99.97,nike
+2017,Nike SB Zoom Stefan Janoski Canvas,85,nike
+2017,Nike SB Dunk Low Pro,90,nike
+2017,Nike SB Air Max Bruin Vapor,89.97,nike
+2017,Nike Free Trainer V7,74.97,nike
+2017,Nike Free Train Virtue,120,nike
+2017,Nike Benassi Solarsoft 2,35,nike
+2017,Nike Roshe One Essential iD,95,nike
+2017,Converse Chuck Taylor All Star Low Top,50,nike
+2017,Converse Chuck Taylor Monochrome High Top,55,nike
+2017,Air Jordan Retro 8,190,nike
+2017,Converse Chuck Taylor All Star Seasonal Low Top,50,nike
+2017,Converse Chuck Taylor All Star Seasonal High Top,55,nike
+2017,Converse Chuck Taylor Monochrome Low Top,50,nike
+2018,LeBron 16,185,nike
+2018,Nike Air Max 270 Bowfin,160,nike
+2018,Nike Air Max 270,150,nike
+2018,Nike Air Max 270 iD,170,nike
+2018,Nike Zoom Fly Flyknit,160,nike
+2018,Nike Zoom Pegasus Turbo,180,nike
+2018,Nike Epic React Flyknit,150,nike
+2018,Nike Epic React Flyknit iD,170,nike
+2018,Nike Air VaporMax Flyknit 2,190,nike
+2018,Nike Air VaporMax Flyknit 2 iD,240,nike
+2018,Nike Air Force 1 '07,90,nike
+2018,Nike Air Force 1 High 07,100,nike
+2018,Nike Air Max 97,160,nike
+2018,Nike Rise React Flyknit LMTD,175,nike
+2018,Air Jordan 5 Retro,190,nike
+2018,Air Jordan 18 Retro,225,nike
+2018,Air Jordan 12 Retro Premium,200,nike
+2018,Air Jordan 1 Retro High Double Strap,140,nike
+2018,Air Jordan 1 High Zip,150,nike
+2018,Air Jordan 1 Mid,110,nike
+2018,Nike Air Zoom Pegasus 35,120,nike
+2018,Nike Free x Metcon,120,nike
+2018,Nike Zoom KD11,150,nike
+2018,Nike Zoom KD11 iD,170,nike
+2018,Nike Air Max 95,180,nike
+2018,Nike Air VaporMax 95,190,nike
+2018,Nike Air Max 90 Essential,110,nike
+2018,Nike Air Force 1 '07 LV8 Utility,100,nike
+2018,Air Jordan 1 Retro High OG,160,nike
+2018,Air Jordan 1 Retro High Premium,145,nike
+2018,Nike Air VaporMax Premier Flyknit,225,nike
+2018,Nike Air VaporMax Flyknit Moc 2,200,nike
+2018,Nike Metcon 4,130,nike
+2018,Nike Metcon DSX Flyknit 2,150,nike
+2018,Nike Air Max Deluxe,180,nike
+2018,Nike Air Max Deluxe,200,nike
+2018,Nike Air Max 97 Ultra '17,160,nike
+2018,Nike Air Force 1 Low Retro QS,130,nike
+2018,Nike Air Force 1 '07 Suede,90,nike
+2018,Nike EXP-X14,83.97,nike
+2018,Nike EXP-X14 QS,140,nike
+2018,Nike Classic Cortez Nylon,70,nike
+2018,Nike Zoom Fly SP,119.97,nike
+2018,Nike Air VaporMax Plus,190,nike
+2018,Nike Air VaporMax 97,190,nike
+2018,Nike Air Max 270 Flyknit,170,nike
+2018,Nike Air Max 270 Premium,170,nike
+2018,Nike Free TR8 (Ohio State),110,nike
+2018,Nike Air Max Typha 2 (NFL Philadelphia),110,nike
+2018,Nike Air Force 1 '07 LV8 JDI LNTC,100,nike
+2018,Nike Air Max 1 Premium,120,nike
+2018,Air Jordan 10 Retro,190,nike
+2018,Nike Free RN Flyknit 2018,120,nike
+2018,Nike Free RN 2018,100,nike
+2018,Nike SB Nyjah,95,nike
+2018,Nike Air Huarache,110,nike
+2018,Nike Lunar Force 1 Duckboot Low Textile,140,nike
+2018,Nike SF Air Force 1,180,nike
+2018,Nike Vapor Untouchable 3 Pro,120,nike
+2018,Nike Vapor Untouchable Pro 3 iD,140,nike
+2019,Nike Air Max 720,180,nike
+2019,Nike Air Max 270,150,nike
+2019,Nike Air VaporMax 2019,190,nike
+2019,Nike Air VaporMax Utility,190,nike
+2019,Nike Air Max 720,180,nike
+2019,Jordan Proto-Max 720,200,nike
+2019,Nike Air VaporMax Flyknit 3,190,nike
+2019,Nike Air VaporMax 2019,190,nike
+2019,Kyrie 5,130,nike
+2019,PG 3,110,nike
+2019,LeBron 16 Low,160,nike
+2019,Air Jordan 13 Retro,190,nike
+2019,Air Jordan 1 Mid SE,120,nike
+2019,Jordan Proto-React,150,nike
+2019,Nike Epic React Flyknit 2,150,nike
+2019,Nike React Element 55,130,nike
+2019,Nike ISPA React WR,160,nike
+2019,Nike Air VaporMax Plus,190,nike
+2019,Nike Air Max 95 Premium,170,nike
+2019,Nike Air Max 97 ND,170,nike
+2019,Nike Air Max 270,150,nike
+2019,Nike Vaporfly 4% Flyknit,250,nike
+2019,Nike Zoom Pegasus Turbo,134.97,nike
+2019,Air Jordan 9 Retro,190,nike
+2019,Air Jordan 4 Retro,190,nike
+2019,Nike Air Max 1,110,nike
+2019,Nike Air Max 1 Premium By You,150,nike
+2019,Nike Air Max 97,135.97,nike
+2019,Nike Air Max 97 By You,190,nike
+2019,Nike Air Zoom Pegasus 35,120,nike
+2019,Nike Metcon 4 XD,130,nike
+2019,Nike Zoom Fly Flyknit,160,nike
+2019,Nike Odyssey React Flyknit 2,89.97,nike
+2019,Nike Air Force 1 '07,90,nike
+2019,Nike Air Force 1 Utility,145,nike
+2019,Nike Air Force 1 '07 Premium 3,130,nike
+2019,Nike Air Force 1 '07 LV8 1,100,nike
+2019,Nike Air Max 90 Essential,81.97,nike
+2019,Nike Air Max 90 By You,130,nike
+2019,Nike Air Max 95 OG,160,nike
+2019,Nike Air Max 95 By You,180,nike
+2019,Nike Air Max 95 ND,170,nike
+2019,Nike Air Max Deluxe,180,nike
+2019,Nike Air VaporMax Flyknit 2 Random,200,nike
+2019,Nike Air VaporMax Flyknit 2,190,nike
+2019,Nike Air Max 98,170,nike
+2019,Nike Air Max 98,160,nike
+2019,Nike Air Max2 Light,140,nike
+2019,Nike Air Tailwind 79,90,nike
+2019,Nike Metcon Flyknit 3,150,nike
+2019,Nike Free TR 8,100,nike
+2019,Nike Air Max 720 SATRN,200,nike
+2019,Nike SB Zoom Janoski Mid Crafted,100,nike
+2019,Air Jordan XXXIII,175,nike
+2019,LeBron 16,185,nike
+2019,Kyrie 5 x ROKIT All Star,140,nike
+2019,"Jordan ""Why Not?"" Zer0.2 SP",125,nike
+2019,Nike SB Air Max Janoski 2,110,nike
+2019,Nike SB Air Max Janoski 2 Premium,120,nike
+2019,Nike SB Zoom Stefan Janoski Canvas Premium,90,nike
+2020,Nike Air Max 2090,150,nike
+2020,Nike Air Max 2090,170,nike
+2020,Air Jordan 4 Retro SE,225,nike
+2020,Air Jordan 3 Retro SE,200,nike
+2020,Air Jordan 1 Low,90,nike
+2020,Air Jordan 1 Mid,115,nike
+2020,Nike Air VaporMax Plus (Chicago),200,nike
+2020,Nike Air Max 90,120,nike
+2020,LeBron 17 Low,160,nike
+2020,LeBron 17,200,nike
+2020,Nike SuperRep Go,100,nike
+2020,Nike Air Zoom SuperRep,120,nike
+2020,Nike React Infinity Run Flyknit,160,nike
+2020,Nike Zoom Pegasus Turbo 2,180,nike
+2020,Nike Air Force 1 '07,90,nike
+2020,Nike Air Force 1 Type-2,140,nike
+2020,Nike Air Force 1 '07,90,nike
+2020,Kyrie 6,130,nike
+2020,PG 4,110,nike
+2020,Zoom Freak 1,120,nike
+2021,Nike Air VaporMax Evo,260,nike
+2021,Nike Air Max 95 EOI,235,nike
+2021,LeBron 18 'White/Black/Gold',260,nike
+2021,Kyrie 7 'Brooklyn Beats',170,nike
+2021,Nike Air Max 2090,180,nike
+2021,Nike Space Hippie 04,170,nike
+2021,Nike Air Max 97 EOI,235,nike
+2021,Nike React Vision,185,nike
+2021,Nike Air Max Plus EOI,225,nike
+2021,Nike Air Max SC,100,nike
+2021,Nike Air Max Bolt,115,nike
+2021,Nike Air Max Tailwind V SP,225,nike
+2021,Nike Air Force 1 '07,135,nike
+2021,Nike Air Max Plus,225,nike
+2021,Jordan MA2,170,nike
+2021,Air Jordan XXXV,235,nike
+2021,Nike ZoomX Vaporfly NEXT%,330,nike
+2021,Nike Air Zoom Pegasus 37 Premium,155,nike
+2021,NikeCourt React Vapor NXT,210,nike
+2021,Nike Air Zoom Terra Kiger 7,180,nike
+2021,Nike Mercurial Dream Speed Superfly 8 Elite FG,385,nike
+2021,Nike Mercurial Dream Speed Superfly 8 Academy MG,125,nike
+2021,PG 5,145,nike
+2021,Nike Air Force 1,170,nike
